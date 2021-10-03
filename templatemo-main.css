@@ -160,6 +160,7 @@ color: #EAE6DF
   font-weight: 700;
   text-decoration: none;
   letter-spacing: 0.5px;
+  border: 2px solid #fff;
 }
 
 .primary-button a:hover {
