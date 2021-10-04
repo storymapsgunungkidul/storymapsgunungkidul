@@ -164,7 +164,8 @@ color: #EAE6DF
 }
 
 .primary-button a:hover {
-  background-color: #0E312D;
+  background-color: #fff;
+  color: #000;
 }
 
 
