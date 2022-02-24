@@ -179,7 +179,7 @@ color: #EAE6DF
 .baner-content {
   padding-top: 30vh;
   text-align: center;
-  background-image: url(../img/baron.jpg);
+  background-image: url(baron.jpg);
 }
 
 /* selamat datang */
@@ -269,7 +269,7 @@ color: #EAE6DF
 
 .projects-content {
   padding-top: 20vh;
-  background-image: url(../img/3rd-section.jpg);
+  background-image: url(3rd-section.jpg);
 }
 
 .projects-content .item img {
@@ -571,7 +571,7 @@ display: block;
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 8vh;
-  background-image: url(../img/4th-section.jpg);
+  background-image: url(4th-section.jpg);
   background-attachment: fixed;
   min-height: 100vh;
   background-size: cover;
@@ -642,7 +642,7 @@ section {
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 16vh;
-  background-image: url(../img/shifaaz-shamoon-okVXy9tG3KY-unsplash.jpg);
+  background-image: url(shifaaz-shamoon-okVXy9tG3KY-unsplash.jpg);
 }
 
 /*kotak-nya */
